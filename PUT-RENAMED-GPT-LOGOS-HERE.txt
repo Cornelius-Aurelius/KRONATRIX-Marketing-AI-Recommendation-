@@ -1,0 +1,6 @@
+Put the renamed GPT PNG logo files in this folder.
+
+Folder path: assets/gpt-logos/
+
+Use the exact filenames in gpt-logo-seo-rename-map.csv.
+For faster loading, also create WebP copies with the same base names.
