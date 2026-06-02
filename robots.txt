@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cornelius-aurelius.github.io/kronatrix-ai-recommendation-marketing/sitemap.xml
+Sitemap: https://cornelius-aurelius.github.io/kronatrix-ai-recommendation-marketing/image-sitemap.xml
